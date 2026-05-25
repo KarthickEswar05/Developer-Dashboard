@@ -1,0 +1,10 @@
+.img-thumbnail {
+  max-width: 15%;
+  /* width: min-content; */
+  /* max-width: min-content; */
+}
+
+.flex-align{
+  display: inline-flex;
+  align-items: center;
+}
